@@ -1,4 +1,3 @@
 ---
-layout: page
+layout: home
 ---
-# Robert的博客
