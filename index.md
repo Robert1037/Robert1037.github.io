@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "Welcome to robert!"
+date:   2021-12-30 19:00:00 +08
+categories: my update
 ---
 
 
