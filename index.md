@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 马原概论
-permalink: /马原/
 ---
 
 
