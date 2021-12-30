@@ -1,13 +1,1 @@
-
-## 网站设置
-# 标题
-title: Blog
-# 选项卡标题
-SEOTitle: 我的博客
-# 首页背景图片
-header-img: 
-# 邮箱设置
-email: zhoujianlu666@gmail.com
-# 网站介绍
-description: "I guess it comes down to a simple choice:get busy living or get busy dying."
-~~~ ~~~ （内容较多，不适合全部展示，关键配置均有中文注释）
+theme: jekyll-theme-cayman
