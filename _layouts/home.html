@@ -8,10 +8,9 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
-  {%- if site.posts.size > 0 -%}
   <img src="https://github.com/Robert1037/Robert1037.github.io/blob/main/img/blogpic1.jpeg" width="304" height="228">
-    <h2 class="post-list-heading">{{ page.list_title | default: "Postss" }}</h2>
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
