@@ -21,7 +21,7 @@
 title: Robert's Blog
 #email: 1592140851@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Powered by Github
+  Powered by GitHub
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Robert1037
