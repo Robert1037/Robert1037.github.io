@@ -1,5 +1,4 @@
 ---
-layout: default
+layout: home
 ---
 ![wall](img/blogwall1.jpg)
-# Robert's Blog
