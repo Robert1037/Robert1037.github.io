@@ -1,5 +1,5 @@
 ---
 layout: home
 ---
-test
-![](https://github.com/Robert1037/Robert1037.github.io/blob/main/img/blogpic2.jpg)/
+test:
+<img src="https://github.com/Robert1037/Robert1037.github.io/blob/main/img/blogpic2.jpg">
