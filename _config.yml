@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Robert's Blog
+title: Roberts Blog
 #email: 1592140851@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   Powered by GitHub
@@ -28,6 +28,7 @@ github_username:  Robert1037
 
 # Build settings
 theme: minima
+post_order: reverse
 #plugins:
 #  - jekyll-feed
 
