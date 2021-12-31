@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-![wall](img/blogwall1.jpg)
+![wall](img/blogwall.jpg)
