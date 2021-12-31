@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
-test:
-<img src="https://github.com/Robert1037/Robert1037.github.io/blob/main/img/blogpic2.jpg">
+tests
+![wall](img/blogpic2.jpg)
