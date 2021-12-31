@@ -9,17 +9,6 @@ layout: default
   <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {{ content }}
     
-  {%- include head.html -%}
-  <body>
-    {%- include header.html -%}
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-    {%- include footer.html -%}
-  </body>
-    
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts_" }}</h2>
     <ul class="post-list">
