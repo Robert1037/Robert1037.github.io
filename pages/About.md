@@ -8,5 +8,5 @@ permalink: /about/
 该网站使用[Jekyll](https://jekyllcn.com/)+[GitHub Pages](https://docs.github.com/cn/pages)搭建。
 
 <body><audio controls height="100" width="100">
-  <source src="" type="audio/mpeg">
+  <source src="/img/about.mp3" type="audio/mpeg">
 </audio></body>
