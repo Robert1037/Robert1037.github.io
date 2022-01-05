@@ -8,6 +8,8 @@ permalink: /about/
 
 使用[Jekyll](https://jekyllcn.com/)+[GitHub Pages](https://docs.github.com/cn/pages)搭建。
 
+2022-1-5
+
 <body><audio controls height="100" width="100">
   <source src="/img/about.mp3" type="audio/mpeg">
 </audio></body>
