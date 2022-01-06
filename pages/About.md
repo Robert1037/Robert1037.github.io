@@ -16,7 +16,7 @@ permalink: /about/
 <meting-js 
 	server="netease" 
 	type="song" 
-	id="22663886"
+	id="66751"
 	fixed="true" 
 	autoplay="true"
 	loop="all"
