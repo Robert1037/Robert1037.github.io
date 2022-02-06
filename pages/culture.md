@@ -11,8 +11,6 @@ permalink: /culture/
 
 ************
 
-### 哲学
-[马原概论摘抄](https://robert1037.github.io/2021/12/30/marxism.html) 2021-12-30
 
 ### 人文综合
 [大学摸鱼报告_甲](https://robert1037.github.io/2021/12/31/fun-a.html) 2021-12-31
