@@ -9,8 +9,7 @@ tags: 音乐
 
 相关文章：
 
-[【中森明菜】华丽时代 (1986) BEST：再次总结](https://www.bilibili.com/read/cv9845064)
-
+<a href="https://www.bilibili.com/read/cv9845064" target="_blank">【中森明菜】华丽时代 (1986) BEST：再次总结</a>
 
 
 <style>
