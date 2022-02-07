@@ -22,7 +22,7 @@ tags: 音乐
 	type="album" 
 	id="2078408"
 	fixed="true" 
-	autoplay="true"
+	autoplay="false"
 	loop="all"
 	order="list"
 	preload="auto"
