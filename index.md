@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
+
+<link rel="shortcut icon" href="head.ico" />
+
 ![wall](img/blogwall.jpg)
 
 *********
