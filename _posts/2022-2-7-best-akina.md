@@ -2,7 +2,7 @@
 layout: post
 title: 专辑《BEST》中森明菜
 date: 2022-2-7
-tags: 音乐
+tags: 歌单
 ---
 
 ![](/img/bestakn.png)
