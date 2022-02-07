@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<link rel="shortcut icon" href="favicon.ico" />
+<link rel="shortcut icon" href="/favicon.ico?">
 
 ![wall](img/blogwall.jpg)
 
