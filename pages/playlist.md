@@ -16,6 +16,8 @@ permalink: /playlist/
 
 [专辑《BEST》中森明菜](https://robert1037.github.io/2022/02/07/best-akina.html)
 
+[专辑《BEST II》中森明菜](https://robert1037.github.io/2022/02/07/best2-akina.html)
+
 -----
 
 ### Symphony
