@@ -13,7 +13,7 @@ permalink: /tech/
 
 <a href="https://www.w3cschool.cn/tutorial" target="_blank">w3cschool 编程入门教程</a>
 
-<a href="http://c.biancheng.net/" target="_blank">C语言中文网</a>
+<a href="http://c.biancheng.net/sitemap/" target="_blank">C语言中文网</a>
 
 <a href="https://github.phodal.com/" target="_blank">GitHub 漫游指南</a>
 
