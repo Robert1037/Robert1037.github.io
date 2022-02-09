@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![](img/blogwall2.png)
+![](img/blogwall3.png)
 
 *********
 
