@@ -56,9 +56,9 @@ paginate: 10
 # their entries' file path in the `include:` list.
 #
  exclude:
-   - .sass-cache/
-   - .jekyll-cache/
-   - gemfiles/
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
    - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
