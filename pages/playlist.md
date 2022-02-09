@@ -14,9 +14,7 @@ permalink: /playlist/
 
 ### J-Pop
 
-[专辑《BEST》中森明菜](https://robert1037.github.io/2022/02/07/best-akina.html)
-
-[专辑《BEST II》中森明菜](https://robert1037.github.io/2022/02/07/best2-akina.html)
+[中森明菜80年代单曲精选辑](https://robert1037.github.io/2022/02/09/best80s-akina.html)
 
 [专辑《Crimson》中森明菜](https://robert1037.github.io/2022/02/07/crimson.html)
 
