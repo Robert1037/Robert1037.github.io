@@ -9,10 +9,11 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        {% include search-lunr.html %}
         {{ content }}
       </div>
     </main>
-
+    {% include new-window-fix.html %}
     {%- include footer.html -%}
 
   </body>
