@@ -32,8 +32,8 @@ url: https://robert1037.github.io # the base hostname & protocol for your site, 
 show_excerpts: false
 theme: minima
 #remote_theme: jekyll/minima
-#minima:
-#  skin: dark
+minima:
+  skin: dark
 post_order: reverse
 links_to_prev_next: true
 plugins:
