@@ -2,7 +2,7 @@
 layout: post
 title: 专辑《100 Best Karajan》赫伯特·冯·卡拉扬
 date: 2022-2-7
-tags: 歌单
+tags: 歌单、Symphony
 ---
 
 ![](/img/karajan.png)
