@@ -2,7 +2,7 @@
 layout: post
 title: 中森明菜80年代单曲精选辑
 date: 2022-2-9
-tags: 歌单
+tags: 歌单、J-Pop
 ---
 
 
