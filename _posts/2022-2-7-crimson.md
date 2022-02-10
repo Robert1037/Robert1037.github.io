@@ -2,7 +2,7 @@
 layout: post
 title: 专辑《Crimson》中森明菜
 date: 2022-2-7
-tags: 歌单
+tags: 歌单、J-Pop
 ---
 
 ![](/img/crimson.png)
