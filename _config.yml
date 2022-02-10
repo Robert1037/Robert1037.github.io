@@ -33,7 +33,7 @@ show_excerpts: false
 theme: minima
 #remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: classic
 post_order: reverse
 links_to_prev_next: true
 plugins:
