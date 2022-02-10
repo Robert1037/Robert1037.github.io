@@ -18,6 +18,8 @@ permalink: /playlist/
 
 [专辑《Crimson》中森明菜](https://robert1037.github.io/2022/02/07/crimson.html)
 
+[专辑《Variety》竹内玛莉亚](https://robert1037.github.io/2022/02/10/variety.html)
+
 -----
 
 ### Symphony
