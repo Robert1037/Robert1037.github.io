@@ -12,10 +12,13 @@ permalink: /playlist/
 
 | J-Pop |
 | --- |
+| [专辑《百惠传》山口百惠](https://robert1037.github.io/2022/02/11/momoe.html) |
+| [专辑《Timely!!》杏里](https://robert1037.github.io/2022/02/10/timely.html) |
+| [专辑《Variety》竹内玛莉亚](https://robert1037.github.io/2022/02/10/variety.html) |
 | [中森明菜80年代单曲精选辑](https://robert1037.github.io/2022/02/09/best80s-akina.html) |
 | [专辑《Crimson》中森明菜](https://robert1037.github.io/2022/02/07/crimson.html) |
-| [专辑《Variety》竹内玛莉亚](https://robert1037.github.io/2022/02/10/variety.html) |
-| [专辑《Timely!!》杏里](https://robert1037.github.io/2022/02/10/timely.html) |
+
+
 
 
 
