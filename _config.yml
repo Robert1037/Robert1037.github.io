@@ -37,7 +37,7 @@ minima:
 post_order: reverse
 links_to_prev_next: true
 # Google Analytics
-google_analytics: UA-T7NMXQM7J-E
+google_analytics: G-T7NMXQM7JE
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
