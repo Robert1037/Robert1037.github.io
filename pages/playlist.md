@@ -6,7 +6,8 @@ permalink: /playlist/
 
 | C-Pop |
 | --- |
-|[《同一首歌--20世纪中国流行歌曲精品》](https://robert1037.github.io/2022/02/07/cpop-20s.html)|
+| [《同一首歌--20世纪中国流行歌曲精品》](https://robert1037.github.io/2022/02/07/cpop-20s.html) |
+| [专辑《唐朝 同名专辑》唐朝乐队](https://robert1037.github.io/2022/02/12/tang.html) |
 
 
 
