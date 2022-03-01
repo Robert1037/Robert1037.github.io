@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-就读于EIC,HUST。
 
-使用[Jekyll](https://jekyllcn.com/)+[GitHub Pages](https://docs.github.com/cn/pages)搭建。
+
+This site is built with [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 

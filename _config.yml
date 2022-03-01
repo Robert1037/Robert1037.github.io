@@ -20,8 +20,8 @@
 
 title: Robert's Blog
 author:
-  name: by ZJh
-  email: zjh1037@foxmail.com
+#  name: by ZJh
+  email: robert1037@163.com
 #description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
