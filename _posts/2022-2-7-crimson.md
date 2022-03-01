@@ -24,7 +24,7 @@ tags: 歌单、J-Pop
 	fixed="false"
 	mini="false"
 	autoplay="false"
-	loop="all"
+	loop="one"
 	order="list"
 	preload="auto"
 	list-folded="false"
