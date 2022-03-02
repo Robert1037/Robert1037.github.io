@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  人文
-permalink: /culture/
+permalink: /culture
 ---
 
 ---

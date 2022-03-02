@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 链接
-permalink: /link/
+permalink: /link
 ---
 
 | 教程、指南 |
