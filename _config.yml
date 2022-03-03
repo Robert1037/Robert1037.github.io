@@ -20,8 +20,8 @@
 
 title: Robert's Blog
 author:
-#  name: by ZJh
-  email: comment@rbtblog.com
+  name: 评论或联系：
+  email: contact-me@rbtblog.com
 #description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
