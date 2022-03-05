@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 歌单
-permalink: /playlist
+title: Playlist
+permalink: /playlist.html
 ---
 
 | C-Pop |
